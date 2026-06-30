@@ -2,8 +2,6 @@
 
 🧠 My technology journey has been intentional and deeply personal. In 2018, I earned my Bachelor of Science in Criminal Justice, where I developed strong analytical thinking, documentation, and problem-solving skills. 
 
-📚 In 2024, I made the courageous decision to return to school and fully commit to a career in technology. Since then, I have immersed myself in learning through coursework, personal projects, outsourcing internships, research, hackathons, and hands-on labs, all while working full-time.
-
 🌱 Along the way, I have built a strong foundation in end-user support, Windows and macOS troubleshooting, ticket management, networking fundamentals, and basic cloud platforms. I actively seek opportunities to apply what I learn through real-world projects, and I’ve established meaningful relationships with professors and mentors who continue to guide me as I grow in the field. These experiences have strengthened both my technical abilities and my confidence in navigating fast-paced, collaborative environments.
 
 # 💻 Tech Stack:
